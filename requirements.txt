@@ -1,5 +1,6 @@
 Flask==2.3.3
 Jinja2==3.1.4
+blis>=0.7.9,<0.8.0
 gunicorn
 MarkupSafe==2.1.5
 Werkzeug==3.0.4
@@ -13,5 +14,4 @@ spacy==3.7.2
 numpy<2.0
 pickleshare==0.7.5
 chardet==5.2.0
-blis>=0.7.9,<0.8.0
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
