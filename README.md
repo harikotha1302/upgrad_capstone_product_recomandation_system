@@ -1,4 +1,4 @@
-Demo URL : https://sentimentbasedrecommendationsy.herokuapp.com/
+Demo URL : [Demo App](https://hari-product-recommend-system-9adc84a817f2.herokuapp.com/)
 
 # Problem Statement
 The e-commerce business is quite popular today. Here, you do not need to take orders by going to each customer. A company launches its website to sell the items to the end consumer, and customers can order the products that they require from the same website. Famous examples of such e-commerce companies are Amazon, Flipkart, Myntra, Paytm and Snapdeal.
@@ -43,7 +43,6 @@ You need to build at least three ML models. You then need to analyse the perform
 1. Logistic regression
 2. Random forest
 3. XGBoost
-4. Naive Bayes
 
 Out of these four models, you need to select one classification model based on its performance.
 
